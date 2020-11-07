@@ -9,3 +9,8 @@ stuff myself, sigh.
 BTW that previous intro blurp paragraph was added using the
 web interface editor. Next step is to clone this repo on my
 rPI and see that I can do things there.
+
+This third paragraph was added using vi on the rPI.  Now it
+will be commited to the project.  It should show up back on
+my gitHub page.
+
